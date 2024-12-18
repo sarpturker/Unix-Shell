@@ -2,4 +2,4 @@ This project was coded for an introductory CS class. It incorporates knowledge a
 The code uses its own implementation for the pwd, cd and exit commands.
 It supports the > redirection command, as well as a custom ">+" "advanced redirection" command, which redirects output to the beginning of the file, shifting its current contents.
 Does not support other features like piping, >>, etc.
-
+All the errors give a generic error output.
